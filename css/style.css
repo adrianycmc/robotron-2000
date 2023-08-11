@@ -86,15 +86,15 @@ main {
 .peca-titulo {
     color: var(--main-branco);
     text-transform: uppercase;
-    font-size: 2.5em;
+    font-size: 1.8em;
 }
 
 .controle {
     background: var(--main-preto);
-    border-radius: 25px;
+    border-radius: 30px;
     float: right;
     display: inline-flex;
-    padding: 5px;
+    padding: 14px;
     align-items: center;
     align-self: flex-end;
 }
@@ -107,7 +107,7 @@ main {
     margin: 0 1rem;
     color: var(--main-branco);
     text-align: center;
-    font-size: 2.5em;
+    font-size: 1.8em;
     display: inline-flex;
     align-items: center;
     padding-top: 8px;
@@ -120,7 +120,7 @@ main {
     line-height: 44px;
     border-radius: 50%;
     color: var(--main-cinza);
-    font-size: 4em;
+    font-size: 2em;
     background: var(--main-preto);
     text-align: center;
     border: 3px solid var(--main-cinza);
@@ -209,7 +209,7 @@ main {
     margin: 10px 0 0;
 }
 
-@media screen and (max-width: 1600px) {
+/*@media screen and (max-width: 1600px) {
     body { 
         font-size: 14px;
     }
@@ -230,4 +230,25 @@ main {
         height: 80vh;
         margin: 10vh auto;
     }
+}*/
+
+@media screen and (max-width: 550px) {
+    /* Essa classe "testerobocontainer" é a classe da tag <main> que você mencionou que comentou, descomente ela e cole isso no final do seu arquivo css */
+    .testerobocontainer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .robo {
+        width: 100%;
+        position: relative;
+        margin: auto;
+        left: auto;
+    }
+
+    main > section {
+        width: 100%;
+        margin: 3rem auto;
+    }
 }
+
