@@ -52,7 +52,7 @@ Para contribuir com Alura Plus, siga estas etapas:
 <br>
 <br>
 
-## 📜 Certificado do curso
+## 📜 Certificado do curso que fiz para desenvolver este projeto 
 [JavaScript: Manipulando o DOM](https://cursos.alura.com.br/certificate/adrianycmc/javascript-manipulando-dom)
 <br>
 <br>
