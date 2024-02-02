@@ -48,7 +48,7 @@ Para contribuir com Alura Plus, siga estas etapas:
 
 ## 🔎 Detalhes do projeto
 
-📌 Este é um projeto de cunho educacional e faz parte da formação: **"Desenvolva aplicações Web com JavaScript"** da Alura.
+📌 Este é um projeto de cunho educacional e faz parte da formação: **"Desenvolva aplicações web com JavaScript"** da Alura.
 <br>
 <br>
 
