@@ -28,7 +28,7 @@ Este projeto tem como objetivo desenvolver a página "Robotron-2000" para aprend
 
 ## 📫 Contribuindo 
 
-Para contribuir com Alura Plus, siga estas etapas:
+Para contribuir com Robotron-2000, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
